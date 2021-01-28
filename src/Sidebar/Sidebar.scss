@@ -1,0 +1,66 @@
+.sidebar {  
+  margin: 20px;
+  flex-shrink: 0;
+
+  .logo-image {
+    width: 40px;
+    height: 40px;
+  }
+
+  .company-title {
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  ul {
+    list-style: none;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    margin-left:20px;
+    @media screen and (max-width: 764px) {
+      margin-left: 0px;
+    }
+    font-weight: 500;
+
+    li {
+      margin-top: 10px;
+      padding: 10px;
+    }
+
+    .active {
+      background-color: #282828;
+      border-radius: 5px;
+    }
+  }
+
+  .nav-links {
+    margin-top: 20px;
+  }
+
+  .fa {
+    color: white;
+    margin-right: 10px;
+    font-size: 20px;
+  }
+
+
+  .sidebar-desktop{
+    display:block;
+    @media screen and (max-width: 764px) {
+      display: none;
+    }
+  }
+
+  .sidebar-mobile{
+    display:none;
+    width: 50px;
+    @media screen and (max-width: 764px) {
+      display: block;
+    }
+  }
+
+
+}
+
+

@@ -1,0 +1,12 @@
+.App {
+  text-align: left;
+  display:flex;
+  min-height: 100vh;
+
+  .router-content{
+    background-color:#181818;
+    width: 100%;
+    padding:5px 20px;
+  }
+}
+

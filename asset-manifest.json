@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/music-app/static/css/main.ed175995.chunk.css",
-    "main.js": "/music-app/static/js/main.d30603ee.chunk.js",
-    "main.js.map": "/music-app/static/js/main.d30603ee.chunk.js.map",
+    "main.js": "/music-app/static/js/main.dc11e10d.chunk.js",
+    "main.js.map": "/music-app/static/js/main.dc11e10d.chunk.js.map",
     "runtime-main.js": "/music-app/static/js/runtime-main.39f4f548.js",
     "runtime-main.js.map": "/music-app/static/js/runtime-main.39f4f548.js.map",
     "static/js/2.e7c12a2e.chunk.js": "/music-app/static/js/2.e7c12a2e.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.1e10225b.chunk.js.map": "/music-app/static/js/3.1e10225b.chunk.js.map",
     "index.html": "/music-app/index.html",
     "static/css/main.ed175995.chunk.css.map": "/music-app/static/css/main.ed175995.chunk.css.map",
-    "static/js/2.e7c12a2e.chunk.js.LICENSE.txt": "/music-app/static/js/2.e7c12a2e.chunk.js.LICENSE.txt"
+    "static/js/2.e7c12a2e.chunk.js.LICENSE.txt": "/music-app/static/js/2.e7c12a2e.chunk.js.LICENSE.txt",
+    "static/media/music-logo.7a00544f.svg": "/music-app/static/media/music-logo.7a00544f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.39f4f548.js",
     "static/js/2.e7c12a2e.chunk.js",
     "static/css/main.ed175995.chunk.css",
-    "static/js/main.d30603ee.chunk.js"
+    "static/js/main.dc11e10d.chunk.js"
   ]
 }
